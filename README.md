@@ -20,6 +20,11 @@ using an interactive Power BI dashboard.
 - Burnout by sleep quality
 - Burnout by stress level
 - Burnout by course and academic year
+  
+  ## Files Included
+- Power BI dashboard (.pbix)
+- student mental health dataset
+- Dashboard screenshot (.png)
 
 ## Objective
 To explore patterns in student well-being and
