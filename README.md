@@ -22,9 +22,9 @@ using an interactive Power BI dashboard.
 - Burnout by course and academic year
   
   ## Files Included
-- Power BI dashboard (.pbix)
-- student mental health dataset
-- Dashboard screenshot (.png)
+- Student mental health dataset
+- Power BI dashboard
+- Dashboard screenshot
 
 ## Objective
 To explore patterns in student well-being and
